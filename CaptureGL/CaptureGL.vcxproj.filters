@@ -18,7 +18,7 @@
     <ClCompile Include="glad.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RenderImages\Multi_Image.cpp">
+    <ClCompile Include="RenderVideos\Multi_Video.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
